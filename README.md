@@ -23,4 +23,3 @@ raspberry pi camera python
 (https://www.raspberrypi.org/documentation/usage/camera/python/README.md)
 
 알FTP 다운로드
-(http://modangs.tistory.com/945)
